@@ -9,5 +9,5 @@ msg @a[scores={InZoneCount=60,InZone=0},tag=!Admin] §eDu hast den geschützten 
 msg @a[scores={InZoneCount=40,InZone=0},tag=!Admin] §eDeine Rechte werden §ewiederhergestellt...
 msg @a[scores={InZoneCount=1,InZone=0},tag=!Admin] §aDu bist jetzt im §lnormalen§r§a §a§lSpielmodus.
 
-msg @a[scores={InZoneCount=20,InZone=100}] §aWillkommen in der Family-Zone.
-msg @a[scores={InZoneCount=60,InZone=0}] §2Auf Wiedersehen in dieser Zone.
+msg @a[scores={InZoneCount=10,InZone=100}] §aWillkommen in der Family-Zone.
+msg @a[scores={InZoneCount=70,InZone=0}] §2Auf Wiedersehen in dieser Zone.
