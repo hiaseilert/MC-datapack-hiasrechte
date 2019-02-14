@@ -1,11 +1,13 @@
+function rechte:zonen/spawn
 function rechte:zonen/family
 
 scoreboard players add @a[scores={InZone=1..}] InZoneCount 1
 scoreboard players remove @a[scores={InZone=..0}] InZoneCount 1
 
+execute at @a[tag=untrusted,scores={InZone=..0}] run function rechte:info_bye
+
 tag @a[scores={InZoneCount=..0},tag=!Admin] remove untrusted
 
-function rechte:info
 function rechte:gamemode
 function rechte:creeperprotection
 
