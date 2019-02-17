@@ -4,4 +4,3 @@ msg @a[scores={InZoneCount=60,InZone=0},tag=untrusted,tag=!Admin] §eDu hast den
 msg @a[scores={InZoneCount=40,InZone=0},tag=untrusted,tag=!Admin] §eDeine Rechte werden §ewiederhergestellt...
 msg @a[scores={InZoneCount=1,InZone=0},tag=untrusted,tag=!Admin] §aDu wirst in dem §lnormalen§r§a §a§lSpielmodus versetzt.
 
-msg @a[scores={InZoneCount=70,InZone=0}] §2Auf Wiedersehen in dieser Zone.
