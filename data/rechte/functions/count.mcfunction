@@ -1,5 +1,5 @@
-function rechte:zonen/spawn
 function rechte:zonen/family
+function rechte:zonen/spawn
 
 scoreboard players add @a[scores={InZone=1..}] InZoneCount 1
 scoreboard players remove @a[scores={InZone=..0}] InZoneCount 1
