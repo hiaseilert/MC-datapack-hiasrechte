@@ -1,4 +1,5 @@
 function rechte:zonen/family
+function rechte:zonen/subway
 function rechte:zonen/spawn
 
 scoreboard players add @a[scores={InZone=1..}] InZoneCount 1
